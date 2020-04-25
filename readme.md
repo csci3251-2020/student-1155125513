@@ -15,3 +15,6 @@ This is a Column | This is also a Column
 ------- | --------
 Block A | Block B
 Block C | Block D
+
+## This is a Screenshot
+![screenshot](screenshot.png)
